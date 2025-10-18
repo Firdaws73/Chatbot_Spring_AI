@@ -11,6 +11,9 @@ The project combines:
 - **LLaMA & OpenAI** (language models)
 - **RAG architecture** (integrating retrieval and generation)
 
+  
+<img width="996" height="643" alt="Chatbot" src="https://github.com/user-attachments/assets/b4807e8b-6653-4be1-9869-afe210d9018d" />
+
 ---
 
 ## ⚙️ Features
